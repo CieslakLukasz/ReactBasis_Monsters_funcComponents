@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactBasis_Monsters/static/css/main.588dee9f.css",
-    "main.js": "/ReactBasis_Monsters/static/js/main.63cf2303.js",
-    "static/js/787.71774a75.chunk.js": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js",
-    "index.html": "/ReactBasis_Monsters/index.html",
-    "main.588dee9f.css.map": "/ReactBasis_Monsters/static/css/main.588dee9f.css.map",
-    "main.63cf2303.js.map": "/ReactBasis_Monsters/static/js/main.63cf2303.js.map",
-    "787.71774a75.chunk.js.map": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js.map"
+    "main.css": "/ReactBasis_Monsters_funcComponents/static/css/main.588dee9f.css",
+    "main.js": "/ReactBasis_Monsters_funcComponents/static/js/main.e7a717f6.js",
+    "static/js/787.71774a75.chunk.js": "/ReactBasis_Monsters_funcComponents/static/js/787.71774a75.chunk.js",
+    "index.html": "/ReactBasis_Monsters_funcComponents/index.html",
+    "main.588dee9f.css.map": "/ReactBasis_Monsters_funcComponents/static/css/main.588dee9f.css.map",
+    "main.e7a717f6.js.map": "/ReactBasis_Monsters_funcComponents/static/js/main.e7a717f6.js.map",
+    "787.71774a75.chunk.js.map": "/ReactBasis_Monsters_funcComponents/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.588dee9f.css",
-    "static/js/main.63cf2303.js"
+    "static/js/main.e7a717f6.js"
   ]
 }
