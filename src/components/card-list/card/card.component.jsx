@@ -5,7 +5,7 @@ class Card extends Component {
   render() {
     const { id, name, email } = this.props.monster;
     return (
-      <div key={id} className="card-container">
+      <div className="card-container">
         <img
           alt={name}
           src={`https://robohash.org/${id}?set=set2&size=180x180`}
